@@ -1,7 +1,9 @@
 <div align="center">
 
 <h2>Hi 👋, I'm Maaz Khan</h2>
-<h3>⚡ Shopify Expert | ♿ Web Accessibility Pro | 🏆 Top Rated on Upwork</h3>
+<h3>⚡ Shopify Expert &nbsp;|&nbsp; ♿ Web Accessibility Pro &nbsp;|&nbsp; 🏆 Top Rated on Upwork</h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Maaz-khan12&color=96BF48&style=flat-square&label=Profile+Views)
 
 </div>
 
