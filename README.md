@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=96BF48&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Maaz+Khan;Shopify+Expert+%7C+Web+Accessibility+Pro)](https://git.io/typing-svg)
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Maaz-khan12&color=96BF48&style=flat-square&label=Profile+Views)
+<h2>Hi 👋, I'm Maaz Khan</h2>
+<h3>⚡ Shopify Expert | ♿ Web Accessibility Pro | 🏆 Top Rated on Upwork</h3>
 
 </div>
 
