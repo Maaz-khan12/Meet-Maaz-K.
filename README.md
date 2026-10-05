@@ -160,7 +160,7 @@ Currently working as a **Top Rated Freelancer** on Upwork with **100% Job Succes
 
 <div align="center">
 
-[![Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~maazk)
+[![Upwork](https://img.shields.io/badge/Hire_Me_on_Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/maazkhanexpert)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Maaz-khan12)
 [![Location](https://img.shields.io/badge/Lahore,_Pakistan-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Lahore,Pakistan)
 
